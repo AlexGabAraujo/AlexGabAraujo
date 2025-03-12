@@ -92,7 +92,7 @@ Me chamo Alex Gabriel, tenho 20 anos e sou natural de Gaspar, Santa Catarina. Co
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGabAraujo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" 
   />
 
 </p>
