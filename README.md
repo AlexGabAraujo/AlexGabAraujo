@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Alex Gabriel de Araujo
 
-**`Estudante de Programação - C#`**
+**`Estudante de Programação - Entra21(2025) - C#`**
 
 Me chamo Alex Gabriel, tenho 20 anos e sou natural de Gaspar, Santa Catarina. Concluí o ensino médio no IFSC - Câmpus Gaspar, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na mesma instituição. Estou aprimorando minhas habilidades em desenvolvimento de software, especialmente em C# e .NET, através do programa Entra21. Estou em busca de novas oportunidades de emprego ou estágio para aplicar meus conhecimentos e continuar meu desenvolvimento profissional.
 <br>Para mais Informações acesse meu [**`Linkedin`**](https://www.linkedin.com/in/alex-gabriel-araujo/)
